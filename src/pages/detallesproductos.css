@@ -1,0 +1,7 @@
+.container {
+    display: grid ;
+    width: 90%;
+    min-height:fit-content;
+	max-width: fit-content;
+    margin: 60px auto 100px auto;
+}
